@@ -1,5 +1,7 @@
 # Arduino-Project-Game-
 An Arduino project to detect button states and Serial Communication.
+
+
 **Overview**
 This project demonstrates how to use an Arduino to detect the state of a button using the INPUT_PULLUP mode. The button's state (pressed or not pressed) is displayed in the Serial Monitor, making it easy to visualize the button's behavior.
 
